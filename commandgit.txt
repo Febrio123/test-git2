@@ -7,3 +7,4 @@ Mencoba remote git dari local ke repo
 - git -v
 - lalu push dengan cara $git push -u origin master
 - git fetch untuk mengatasi terjadinya error
+- git pull untuk mengecek kesalahan commit yang ada di repo github
