@@ -1,0 +1,8 @@
+Mencoba remote git dari local ke repo
+- buat folder di lokal 
+- lalu buat folder repo dengan nama yang sama dengan di lokal
+- readme jangan di centang
+- git remote add origin https://github.com/Febrio123/test-git2.git
+- $git remote
+- git -v
+- lalu push dengan cara $git push -u origin master
